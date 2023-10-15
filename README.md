@@ -1,4 +1,4 @@
-# Open AI: Function calling test for weather query
+# Open AI: Function calling demo for weather query
 
 ## Usage
 
